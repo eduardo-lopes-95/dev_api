@@ -1,1 +1,2 @@
-# dev_api
+# API for find developers
+## built with Flask Microframework Python
